@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview ShimmerLayout</string>
+    <string name="dots">&#8230;</string>
+    <string name="description">description</string>
+</resources>
